@@ -1,1 +1,3 @@
-Yash
+<?php
+echo "Yash";
+?>
